@@ -1,2 +1,9 @@
 node_modules/
 dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+Caddyfile
+*.log
+.DS_Store
